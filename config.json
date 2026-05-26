@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdonnect",
+        "uuid": 3548184,
+        "checksum": "lg13kc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
